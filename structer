@@ -1,0 +1,16 @@
+main home - Browse job listings with advanced filters (location, salary, type, skills).
+header / job card - Save favorite jobs for later reference.
+job detail / job seekers follow page - Apply for jobs and manage applications and show notifications.
+job seekers profile -  Build and update profiles and resumes.
+
+Employers follow page - Post job openings and manage job listings.
+Employers applications page - View, filter, and manage applicants.
+Employers applications page upplayer communication - Interact with candidates via real-time notifications.
+
+Admin dashboard - Manage users, job listings, and reports effectively.
+
+// installing
+NextAuth.js with OAuth
+Framer Motion
+React Query -> state manegment
+Prisma -> database manegment
